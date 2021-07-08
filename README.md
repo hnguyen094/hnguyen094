@@ -1,4 +1,5 @@
 # Hi! I'm [Hung][website] (he/him), an AR/VR Software Engineer 👋🏼🥽🕹️
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ## 📈 Live Data
 [![twitter](https://img.shields.io/twitter/follow/hungthewin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhungthewin&screen_name=hungthewin)
